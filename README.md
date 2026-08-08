@@ -9,7 +9,7 @@ Horizon level-75-or-lower Blue Magic list.
 Install
 -------
 1. Extract the BLUAlert folder into your Ashita v4 addons folder:
-   Ashita\\addons\\BLUAlert\\
+   horizon\\addons\\BLUAlert\\
 2. Load it with:
    /addon load BLUAlert
 
